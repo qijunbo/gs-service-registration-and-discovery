@@ -1,0 +1,1 @@
+java -jar build\libs\eureka-client-0.0.1-SNAPSHOT.jar
